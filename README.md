@@ -1,5 +1,5 @@
 # ARM64Ports
-Binary files of ARM64 ports of popular retro PC titles, for use with a Raspbery Pi 4/5 or similar SBC.
+Binary files and icons of ARM64 ports of popular retro PC titles, for use with a Raspbery Pi 4/5 or similar SBC.
 ## Games & Ports
 - SiN Gold + Wages of SiN (Dominatrix)
 - Diablo (DevilutionX)
