@@ -1,8 +1,8 @@
 # ARM64Ports
 Binary files and icons of ARM64 ports of popular retro PC titles, for use with a Raspbery Pi 4/5 or similar SBC. Part of the 9xOS project.
 ## Games & Ports
-- SiN Gold + Wages of SiN (Dominatrix)
-- Diablo (DevilutionX)
+- SiN Gold + Wages of SiN (Dominatrix v1.2)
+- Diablo (DevilutionX v1.5.5)
 - Doom 3 (dhewm3)
 - Fallout 1 & 2 (fallout1-ce & fallout2-ce)
 - Unreal Tournament + Unreal Gold (OldUnreal)
