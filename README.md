@@ -6,7 +6,7 @@ Binary files and icons of ARM64 ports of popular retro PC titles, for use with a
 - Doom 3 (dhewm3)
 - Fallout 1 & 2 (fallout1-ce & fallout2-ce)
 - Unreal Tournament + Unreal Gold (OldUnreal)
-- Half-Life (Xash3d-FWGS)
+- Half-Life (Xash3d-FWGS) (Includes support for Opposing Force, Blue Shift, Deathmatch Classic, Azure Sheep, Decay and Echoes)
 - Half-Life 2 & Portal (source-engine built for ARM64)
 - Medal of Honor: Allied Assault (OpenMOHAA)
 - The Elder Scrolls: Morrowind (OpenMW)
